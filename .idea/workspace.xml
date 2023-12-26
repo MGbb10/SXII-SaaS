@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b189cbd5-debf-44a1-bfc5-508e4277006d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/heima_leadnews$BehaviorApplication.ic" NAME="BehaviorApplication Coverage Results" MODIFIED="1586267548941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.heima.behavior.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-utils/src/main/java/com/usian/utils/threadlocal/AppThreadLocalUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/dtos/UserRelationDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/pojos/ApUserFollow.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/pojos/ApUserFan.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/dtos/AuthDto.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/pojos/ApUserRealname.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/pojos/ApUser.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/dtos/LoginDto.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/common/annotation/IdEncrypt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usian-leadnews-common/src/test/java/com/usian/aliyun/test/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="mp mapper" />
+        <option value="xml" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getCrawlerProxyProvider</find>
+      <find>crawlerProxyProvider</find>
+      <find>HtmlLabel</find>
+      <find>spring-boot-starter-quartz</find>
+      <find>saveCollectionBehavior</find>
+      <find>count-article-num-miukoo-1</find>
+      <find>hadoop.home.dir</find>
+      <find>=</find>
+      <find>fastdfs.version</find>
+      <find>fastd</find>
+      <find>fast</find>
+      <find>apArticleConfigMapper</find>
+      <find>del</find>
+      <find>FescarAutoConfiguration</find>
+      <find>nacos</find>
+      <find>com.alibaba.cloud</find>
+      <find>FeignClientSpecification</find>
+      <find>zaxxer</find>
+      <find>mysql</find>
+      <find>mysql.version</find>
+      <find>kafka</find>
+      <find>SensitiveWordUtil</find>
+      <find>adSensitiveMapper</find>
+      <find>mongo</find>
+      <find>elasticsearch.version</find>
+      <find>lom</find>
+      <find>redis</find>
+      <find>maven_test.properties</find>
+      <find>swagger</find>
+      <find>heima</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>:</replace>
+      <replace>usian</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/itheima-news-ppt" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/resources/xxl_job.properties" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/resources/fast_dfs.properties" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/resources/redis.properties" />
+        <option value="$PROJECT_DIR$/heima-leadnews-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-wemedia/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-fescar/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/controller/v2/ArticleHomeV2Controller.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-article/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/config/XxlJobConfig.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/job/ComputeHotArticleJob.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-behavior/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/resources/mongo.properties" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/behavior/dtos/LikesBehaviorDto.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-behavior/src/main/java/com/heima/behavior/config/InitConfig.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-article/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-user/src/main/java/com/heima/user/config/InitConfig.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-app-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/common/dtos/PageRequestDto.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/common/enums/AppHttpCodeEnum.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/common/dtos/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/admin/pojo/AdChannel.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-apis/src/main/java/com/heima/api/admin/AdChannelControllerApi.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/admin/pojos/AdChannel.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/AdminApplication.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/kejrja.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/kejrjaere.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/controller/v1/dsfdf.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/admin/dtos/ChannelDto.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-apis/src/main/java/com/heima/apis/admin/AdChannelControllerApi.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/mapper/AdChannelMapper.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/AdChannelService.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/controller/v1/AdChannelController.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/AdChannelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/AdChannelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/admin/dtos/AdUserDto.java" />
+        <option value="$PROJECT_DIR$/usian-leadnews-model/pom.xml" />
+        <option value="$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/pojos/WmNewsMaterial.java" />
+        <option value="$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/dtos/LoginDto.java" />
+        <option value="$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/common/annotation/IdEncrypt.java" />
+        <option value="$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/dtos/UserRelationDto.java" />
+        <option value="$PROJECT_DIR$/usian-leadnews-common/src/test/java/com/heima/aliyun/test/MainTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="ApHotArticlesServiceTest.testComputeHotArticle" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.5.2" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usian-leadnews" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usian-leadnews" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usian-leadnews-apis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usian-leadnews-apis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usian-leadnews-apis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usian-leadnews-model" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usian-leadnews-model" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="width" value="1375" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="2YZ7Ds0qG1OcXtKAcRx3YsHm9TC" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="usian-leadnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usian-leadnews" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/积云/p4/dou",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/java/projects/SX/usian-leadnews/usian-leadnews-comment/src/main/java/com/usian/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.19332564",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "dcf15de9844c5205d7c8cce1826972b6",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.usian.user.service.impl" />
+      <recent name="com.heima.article.feign" />
+      <recent name="com.heima.user.feign" />
+      <recent name="com.heima.user.mapper" />
+      <recent name="com.heima.behavior.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\projects\SX\usian-leadnews\usian-leadnews-common\src\main\java\com\usian\common\jackson" />
+      <recent name="D:\java\projects\SX\usian-leadnews\fastdfs-demo\src\main\java\com\usian\fastdfs\config" />
+      <recent name="D:\java\projects\SX\usian-leadnews\fastdfs-demo\src\main\resources" />
+      <recent name="D:\java\projects\SX\usian-leadnews\usian-leadnews-wemedia\src\main\resources" />
+      <recent name="D:\java\projects\SX\usian-leadnews\usian-leadnews-artical\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\projects\SX\usian-leadnews\usian-leadnews-common\src\main\resources" />
+      <recent name="D:\java\projects\SX" />
+      <recent name="D:\java\projects\SX\" />
+      <recent name="D:\java\projects\SX\usian-leadnews" />
+      <recent name="D:\java\projects\SX\usian-leadnews\usian-leadnews-user\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.usian.wemedia.mapper" />
+      <recent name="com.usian.common.fastdfs" />
+      <recent name="com.usian.wemedia.config" />
+      <recent name="com.usian.user.config" />
+      <recent name="com.usian.artical.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WemediaApplication">
+    <configuration name="ArticalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="usian-leadnews-artical" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usian.article.ArticalApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usian.article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="usian-leadnews-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usian.user.UserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usian.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsianLeadnewsGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="usian-leadnews-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usian.admin.gateway.UsianLeadnewsGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usian.admin.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WemediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="usian-leadnews-wemedia" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usian.wemedia.WemediaApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usian.wemedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WemediaGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="usian-leadnews-wemedia-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usian.wemedia.gateway.WemediaGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usian.wemedia.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.WemediaGatewayApplication" />
+      <item itemvalue="Spring Boot.WemediaApplication" />
+      <item itemvalue="Spring Boot.ArticalApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.UsianLeadnewsGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WemediaApplication" />
+        <item itemvalue="Spring Boot.WemediaGatewayApplication" />
+        <item itemvalue="Spring Boot.ArticalApplication" />
+        <item itemvalue="Spring Boot.UsianLeadnewsGatewayApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\10406\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b189cbd5-debf-44a1-bfc5-508e4277006d" name="Default Changelist" comment="" />
+      <created>1566098930433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566098930433</updated>
+      <workItem from="1566098933681" duration="2187000" />
+      <workItem from="1567438278566" duration="4820000" />
+      <workItem from="1567472757415" duration="5527000" />
+      <workItem from="1567488917746" duration="5000" />
+      <workItem from="1567589280574" duration="65821000" />
+      <workItem from="1567923949464" duration="1834000" />
+      <workItem from="1568011914482" duration="13972000" />
+      <workItem from="1568164144874" duration="620000" />
+      <workItem from="1568188597055" duration="19488000" />
+      <workItem from="1568272421235" duration="3081000" />
+      <workItem from="1568426639541" duration="72128000" />
+      <workItem from="1568769453263" duration="15058000" />
+      <workItem from="1568800043471" duration="47097000" />
+      <workItem from="1568987521594" duration="2679000" />
+      <workItem from="1569027667924" duration="18532000" />
+      <workItem from="1569200877684" duration="2446000" />
+      <workItem from="1569208753157" duration="9108000" />
+      <workItem from="1569287756812" duration="49051000" />
+      <workItem from="1569459459044" duration="16373000" />
+      <workItem from="1569546442147" duration="41225000" />
+      <workItem from="1569719900916" duration="11066000" />
+      <workItem from="1570499356238" duration="1016000" />
+      <workItem from="1570521141771" duration="4055000" />
+      <workItem from="1570526611920" duration="14853000" />
+      <workItem from="1570690986447" duration="9480000" />
+      <workItem from="1570977082392" duration="9826000" />
+      <workItem from="1571104002264" duration="24386000" />
+      <workItem from="1571274898886" duration="21925000" />
+      <workItem from="1571558115188" duration="5975000" />
+      <workItem from="1571568162989" duration="23507000" />
+      <workItem from="1571669437758" duration="3377000" />
+      <workItem from="1571705937777" duration="64440000" />
+      <workItem from="1571969507712" duration="18371000" />
+      <workItem from="1572014954393" duration="11872000" />
+      <workItem from="1572231534647" duration="19304000" />
+      <workItem from="1572315385837" duration="3622000" />
+      <workItem from="1572402364221" duration="28310000" />
+      <workItem from="1572491224266" duration="11152000" />
+      <workItem from="1572511735309" duration="9380000" />
+      <workItem from="1572569606764" duration="28151000" />
+      <workItem from="1572659429247" duration="21453000" />
+      <workItem from="1572755744094" duration="3570000" />
+      <workItem from="1572760531408" duration="29683000" />
+      <workItem from="1572833470584" duration="1656000" />
+      <workItem from="1572847946461" duration="9525000" />
+      <workItem from="1581586892015" duration="191000" />
+      <workItem from="1581587109749" duration="625000" />
+      <workItem from="1581587776538" duration="3226000" />
+      <workItem from="1581594667770" duration="173000" />
+      <workItem from="1581594867299" duration="9322000" />
+      <workItem from="1581664343493" duration="24514000" />
+      <workItem from="1582100137701" duration="785000" />
+      <workItem from="1582541817948" duration="2202000" />
+      <workItem from="1582545357169" duration="399000" />
+      <workItem from="1582549180124" duration="164000" />
+      <workItem from="1583057802404" duration="11893000" />
+      <workItem from="1583414140518" duration="1257000" />
+      <workItem from="1583736016144" duration="639000" />
+      <workItem from="1583743003208" duration="6113000" />
+      <workItem from="1583767379420" duration="2026000" />
+      <workItem from="1583897365947" duration="58000" />
+      <workItem from="1583920679354" duration="8991000" />
+      <workItem from="1583937220680" duration="38173000" />
+      <workItem from="1584170889400" duration="16997000" />
+      <workItem from="1584267295450" duration="4068000" />
+      <workItem from="1584321585456" duration="20711000" />
+      <workItem from="1584406975682" duration="22555000" />
+      <workItem from="1584508474754" duration="31177000" />
+      <workItem from="1584711323777" duration="2141000" />
+      <workItem from="1584754296608" duration="10841000" />
+      <workItem from="1584793682417" duration="9052000" />
+      <workItem from="1584881378535" duration="879000" />
+      <workItem from="1584882504493" duration="103000" />
+      <workItem from="1585150958188" duration="1036000" />
+      <workItem from="1585188920673" duration="3000" />
+      <workItem from="1585290486043" duration="46981000" />
+      <workItem from="1585655791974" duration="4495000" />
+      <workItem from="1585660695762" duration="30387000" />
+      <workItem from="1585844142860" duration="4251000" />
+      <workItem from="1585882867269" duration="4844000" />
+      <workItem from="1585926272982" duration="675000" />
+      <workItem from="1586012097594" duration="6442000" />
+      <workItem from="1586080529786" duration="4711000" />
+      <workItem from="1586157675495" duration="18242000" />
+      <workItem from="1586227732547" duration="18502000" />
+      <workItem from="1586311849860" duration="16821000" />
+      <workItem from="1586403441125" duration="5036000" />
+      <workItem from="1586434860117" duration="9218000" />
+      <workItem from="1586493658128" duration="2093000" />
+      <workItem from="1586874067778" duration="53000" />
+      <workItem from="1586883677854" duration="12669000" />
+      <workItem from="1587003766488" duration="6121000" />
+      <workItem from="1587175099753" duration="8463000" />
+      <workItem from="1587261286212" duration="14249000" />
+      <workItem from="1587350221096" duration="76000" />
+      <workItem from="1587351241108" duration="12285000" />
+      <workItem from="1588425344411" duration="122000" />
+      <workItem from="1588557239175" duration="16501000" />
+      <workItem from="1588745247775" duration="8292000" />
+      <workItem from="1588812607318" duration="2065000" />
+      <workItem from="1588865736603" duration="3028000" />
+      <workItem from="1588901814709" duration="9074000" />
+      <workItem from="1589033716983" duration="6127000" />
+      <workItem from="1589159418378" duration="6755000" />
+      <workItem from="1589244828060" duration="1193000" />
+      <workItem from="1589334534478" duration="1632000" />
+      <workItem from="1590025075123" duration="1257000" />
+      <workItem from="1590567896252" duration="659000" />
+      <workItem from="1591089928739" duration="2351000" />
+      <workItem from="1591093384333" duration="3057000" />
+      <workItem from="1591148838159" duration="5819000" />
+      <workItem from="1591267945133" duration="3619000" />
+      <workItem from="1591339931282" duration="16978000" />
+      <workItem from="1591776078195" duration="1461000" />
+      <workItem from="1591778296954" duration="2046000" />
+      <workItem from="1591780868052" duration="2890000" />
+      <workItem from="1591875724702" duration="4323000" />
+      <workItem from="1631422594479" duration="2349000" />
+      <workItem from="1700721131943" duration="889000" />
+      <workItem from="1700722037916" duration="4870000" />
+      <workItem from="1700737306738" duration="1012000" />
+      <workItem from="1700739222160" duration="629000" />
+      <workItem from="1700791908463" duration="13000000" />
+      <workItem from="1700828429250" duration="18000" />
+      <workItem from="1700996581012" duration="795000" />
+      <workItem from="1701051926441" duration="9292000" />
+      <workItem from="1701089698952" duration="699000" />
+      <workItem from="1701132500326" duration="5327000" />
+      <workItem from="1701152713279" duration="4152000" />
+      <workItem from="1701157474018" duration="577000" />
+      <workItem from="1701158206789" duration="3623000" />
+      <workItem from="1701162189565" duration="8136000" />
+      <workItem from="1701217921455" duration="2940000" />
+      <workItem from="1701227568398" duration="246000" />
+      <workItem from="1701246484082" duration="2025000" />
+      <workItem from="1701310779296" duration="2839000" />
+      <workItem from="1701314729064" duration="245000" />
+      <workItem from="1701315179088" duration="31000" />
+      <workItem from="1701398686745" duration="709000" />
+      <workItem from="1701412398475" duration="167000" />
+      <workItem from="1701416824555" duration="8732000" />
+      <workItem from="1701599420003" duration="134000" />
+      <workItem from="1701654391829" duration="11965000" />
+      <workItem from="1701689397334" duration="1228000" />
+      <workItem from="1701690826511" duration="568000" />
+      <workItem from="1701691662722" duration="150000" />
+      <workItem from="1701692140112" duration="371000" />
+      <workItem from="1701743844845" duration="9801000" />
+      <workItem from="1701827976048" duration="14933000" />
+      <workItem from="1701909745645" duration="8225000" />
+      <workItem from="1701999504334" duration="631000" />
+      <workItem from="1702003640997" duration="1776000" />
+      <workItem from="1702264609121" duration="3395000" />
+      <workItem from="1702293189275" duration="15000" />
+      <workItem from="1702347893800" duration="1376000" />
+      <workItem from="1702366305923" duration="1106000" />
+      <workItem from="1702886678576" duration="2033000" />
+      <workItem from="1702896090974" duration="5882000" />
+      <workItem from="1702951338497" duration="10653000" />
+      <workItem from="1702975220474" duration="1940000" />
+      <workItem from="1702982083662" duration="4980000" />
+      <workItem from="1703037662958" duration="9853000" />
+      <workItem from="1703122041363" duration="11193000" />
+      <workItem from="1703154181529" duration="2874000" />
+      <workItem from="1703589019520" duration="327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArticleSeacheTest_testInsert - 2020.04.19 at 19h 53m 37s.xml">
+      <configuration name="ArticleSeacheTest.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArticleSeacheTest_testInsert - 2020.04.19 at 19h 55m 34s.xml">
+      <configuration name="ArticleSeacheTest.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApHotArticlesServiceTest_testComputeHotArticle - 2020.05.05 at 11h 24m 42s.xml">
+      <configuration name="ApHotArticlesServiceTest.testComputeHotArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApHotArticlesServiceTest_testComputeHotArticle - 2020.05.05 at 14h 13m 36s.xml">
+      <configuration name="ApHotArticlesServiceTest.testComputeHotArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApHotArticlesServiceTest_testComputeHotArticle - 2020.05.05 at 14h 14m 22s.xml">
+      <configuration name="ApHotArticlesServiceTest.testComputeHotArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApHotArticlesServiceTest_testComputeHotArticle - 2020.05.05 at 14h 16m 48s.xml">
+      <configuration name="ApHotArticlesServiceTest.testComputeHotArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApHotArticlesServiceTest_testComputeHotArticle - 2020.05.05 at 14h 18m 35s.xml">
+      <configuration name="ApHotArticlesServiceTest.testComputeHotArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApHotArticlesServiceTest_testComputeHotArticle - 2020.05.05 at 14h 20m 00s.xml">
+      <configuration name="ApHotArticlesServiceTest.testComputeHotArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApHotArticlesServiceTest_testComputeHotArticle - 2020.05.05 at 14h 25m 45s.xml">
+      <configuration name="ApHotArticlesServiceTest.testComputeHotArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApHotArticlesServiceTest_testComputeHotArticle - 2020.05.05 at 14h 38m 22s.xml">
+      <configuration name="ApHotArticlesServiceTest.testComputeHotArticle" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1339533000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4869281" visible="true" weight="0.3069705" />
+      <window_info id="Structure" order="1" sideWeight="0.5130719" side_tool="true" weight="0.30257186" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5088161" side_tool="true" weight="0.2881997" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run Dashboard" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3270869" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3649222" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.21124361" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Analysis" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32879046" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32879046" />
+      <window_info anchor="bottom" id="Sequence" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.4088586" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.54344124" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32879046" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="right" id="Maven" weight="0.19034852" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.22617246" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4869281" visible="true" weight="0.30257186" />
+      <window_info id="Structure" order="1" sideWeight="0.5130719" side_tool="true" weight="0.30257186" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5088161" side_tool="true" weight="0.2881997" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3270869" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2810903" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" visible="true" weight="0.21124361" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Analysis" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32879046" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32879046" />
+      <window_info anchor="bottom" id="Sequence" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.4088586" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.54344124" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32879046" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.22617246" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/itheima-news-ppt" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/service/AppArticleServiceImpl.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/kafka/TestKafkaListener.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-crawler/src/test/java/com/heima/crawler/service/CrawlerNewsAdditionalServiceTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-crawler/src/main/java/com/heima/crawler/manager/ProcessingFlowManager.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-login/src/main/java/com/heima/login/controller/v2/LoginV2Controller.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-login/src/main/java/com/heima/login/service/impl/ApUserLoginServiceImpl.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-login/src/main/java/com/heima/login/service/impl/ValidateServiceImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/test/java/com/heima/migration/test/HbaseTest.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/kafka/listener/MigrationAuditSucessArticleListener.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ArticleQuantityServiceImpl.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/kafka/listener/MigrationAuditSucessArticleListener.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/ReviewMediaArticleServiceImpl.java</url>
+          <line>303</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/impl/WmNewsServiceImpl.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/usian-leadnews-common/src/main/java/com/heima/common/web/ad/security/AdminTokenFilter.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/WeMediaNewsAutoScanServiceImpl.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/WeMediaNewsAutoScanServiceImpl.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-search/src/main/java/com/heima/search/service/impl/ApUserSearchServiceImpl.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/controller/v1/AdChannelController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/AdChannelServiceImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../fastdfs-demo/src/main/java/com/usian/seata/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fast-demo/src/main/java/com/usian/fastdfs/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../fast-demo/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fastdfs-demo/src/main/java/com/usian/fastdfs/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.1/mybatis-plus-core-3.1.1.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class</url>
+          <line>18</line>
+          <properties class="com.baomidou.mybatisplus.core.mapper.BaseMapper" method="deleteById" />
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanDefinitionStoreException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="365" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/AdminApplication.java" />
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/admin/dtos/ChannelDto.java" />
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/mapper/AdChannelMapper.java" />
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-apis/src/main/java/com/heima/apis/admin/AdChannelControllerApi.java" />
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/AdChannelService.java" />
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/common/enums/AppHttpCodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/common/dtos/PageRequestDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/common/dtos/PageResponseResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/AdChannelServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/controller/v1/AdChannelController.java" />
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/resources/logback.xml" />
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/admin/pojos/AdChannel.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3078">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-utils/src/main/java/com/usian/utils/common/AppJwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-common/maven_test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-common/maven_prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-common/maven_dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-common/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/admin/pojos/AdChannel.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/admin/dtos/NewsAuthDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/admin/dtos/SensitiveDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/admin/pojos/AdSensitive.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/admin/dtos/AdUserDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/admin/pojos/AdUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-utils/src/main/java/com/usian/utils/threadlocal/AdminThreadLocalUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/admin/dtos/ChannelDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-apis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-utils/src/main/java/com/usian/utils/threadlocal/WmThreadLocalUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/dtos/WmUserDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/pojos/WmUser.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/dtos/WmNewsPageReqDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/pojos/WmMaterial.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/dtos/WmNewsDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/pojos/WmNews.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/dtos/WmMaterialDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/media/pojos/WmNewsMaterial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-utils/src/main/java/com/usian/utils/threadlocal/AppThreadLocalUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/pojos/ApUserFollow.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/pojos/ApUserFan.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/dtos/AuthDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/pojos/ApUserRealname.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/pojos/ApUser.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/dtos/LoginDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/user/dtos/UserRelationDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-utils/src/main/java/com/usian/utils/common/DataConvertUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-model/src/main/java/com/usian/model/common/annotation/IdEncrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usian-leadnews-common/src/test/java/com/usian/aliyun/test/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>usian-leadnews-apis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="package -Dmaven.test.skip=true" />
+    <option value="install -Dmaven.test.skip=true" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+server:
+  port: 9003
+spring:
+  application:
+    name: leadnews-article
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    alibaba:
+      seata:
+        tx-service-group: ${spring.application.name}_tx_group
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/leadnews_article?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: 123
+mybatis-plus:
+  mapper-locations: classpath*:mapper/*.xml
+  # 设置别名包扫描路径，通过该属性可以给包中的类注册别名
+  type-aliases-package: com.usian.model.article.pojos
+  configuration:
+    map-underscore-to-camel-case: false  #是否关闭驼峰到下划线的映射
+    cache-enabled: false  #是否开启二级缓存
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl  #打印sql语句
+  global-config:
+    datacenter-id: 1
+    workerId: 1

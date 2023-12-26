@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "mongo",
+      "type": "com.usian.common.mongo.MongoDBconfigure",
+      "sourceType": "com.usian.common.mongo.MongoDBconfigure"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mongo.dbname",
+      "type": "java.lang.String",
+      "sourceType": "com.usian.common.mongo.MongoDBconfigure"
+    },
+    {
+      "name": "mongo.host",
+      "type": "java.lang.String",
+      "sourceType": "com.usian.common.mongo.MongoDBconfigure"
+    },
+    {
+      "name": "mongo.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.usian.common.mongo.MongoDBconfigure"
+    }
+  ],
+  "hints": []
+}
